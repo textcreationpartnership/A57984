@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the supream authority in this Common-wealth, the Parliament of England. The petition of John Earl of Rutland</title>
+            <author>Rutland, John Manners, Earl of, 1604-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57984</idno>
+            <idno type="STC">Wing R2399A</idno>
+            <idno type="EEBO-CITATION">99826016</idno>
+            <idno type="PROQUEST">99826016</idno>
+            <idno type="VID">207072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207072)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1980:02)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the supream authority in this Common-wealth, the Parliament of England. The petition of John Earl of Rutland</title>
+                  <author>Rutland, John Manners, Earl of, 1604-1679.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1649?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerns compensation to Rutland for Belvoir Castle, pulled down by the government, and his dispute with Edward Howard, Baron Howard of Escrick, about the lease of Wallingford House.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Howard of Escrick, Edward Howard, --  Baron, d. 1675.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Confiscations and contributions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:207072:1"/>
+            <head>TO THE SUPREAM AUTHORITY OF THIS COMMON-WEALTH, THE PARLIAMENT OF ENGLAND.</head>
+            <head>The PETITION of JOHN Earl of RUTLAND.</head>
+            <div type="petition_proper">
+               <opener>H<g ref="char:V">Ʋ</g>MBLY SHEWETH,</opener>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat whereas his principal Houſe <hi>Belvoir Castle,</hi> is lately pulled down, by Order from the Coun<g ref="char:EOLhyphen"/>cel of State, to his great inconveniency for living in the Country; And being Tenant in poſ<g ref="char:EOLhyphen"/>ſeſſion of <hi>Wallingford</hi> Houſe, having a juſt Title thereunto under the State, at leaſt unto <hi>Lady</hi> day next; As may appear by the Caſe annexed, though the Commiſſioners for compound<g ref="char:EOLhyphen"/>ing refuſe to confirm it: The Lord <hi>Howard</hi> pretending Title thereunto alſo, endeavours by his power to diſturb, and by threats of force to diſpoſſeſs your Petitioner thereof; contrary to the Law, and your late Act for ordering eſtates of Delinquents: Prayeth to be protected from force, and that the Lord <hi>Howard</hi> may be left to his Legal courſe, to whom your Petitioner will appear <hi>gratis;</hi> or elſe that it will pleaſe you to determine the Controverſie your ſelvs, to whoſe judgements your Petitioner ſhall ſubmit.</p>
+               <closer>And pray, &amp;c.</closer>
+            </div>
+            <div type="case">
+               <head>The Caſe betwixt the Earl of RUTLAND and the Lord HOWARD, is as followeth.</head>
+               <list>
+                  <item>
+                     <hi>1</hi> THe Earl of <hi>Rutland</hi> was certainly Tenant in poſſeſſion of <hi>Wallingford</hi> Houſe, at the time of the Lord <hi>Ed<g ref="char:EOLhyphen"/>ward Howards</hi> pretended Leaſe from the Committee of Advance.</item>
+                  <item>
+                     <hi>2</hi> That the ſaid Leaſe to the Lord <hi>Howard,</hi> at <hi>40 l. per annum,</hi> with the abatement of a fifth part for diſcovery, was upon pretence of his being a diſcoverer; though uncapable of a Leaſe, being a Member of the ſaid Committee.</item>
+                  <item>
+                     <hi>3</hi> That the diſcovery, if any were, was before that time made by another perſon to the Comiſſioners of Sequeſtrations for <hi>Weſtminſter,</hi> to which it did properly appertain.</item>
+                  <item>
+                     <hi>4</hi> That the Earl of <hi>Rutland,</hi> upon ſuppoſal of a Right in the Lord <hi>Howard,</hi> promiſed poſſeſſion of <hi>Wallingford</hi> Houſe; But the aforeſaid pretended Title of the Lord <hi>Howard,</hi> was afterwards annulled by the Commiſſioners for compounding, and waved by the Lord <hi>Howard</hi> himſelf; by his taking a New Leaſe to commence within his former pretended Term, and all this, before ſuch time as the ſaid Earl was to deliver him poſſeſſion; whereby the Lord <hi>Howard's</hi> ſuppoſed Right was extinct; and by conſequence, the Earl of <hi>Rutland's</hi> engagement of ren<g ref="char:EOLhyphen"/>dring poſſeſſion abſolutely diſcharged.</item>
+                  <item>
+                     <hi>5</hi> That before this new Leaſe of the Lord <hi>Howards,</hi> from the Commiſſioners for compounding, the Earl of <hi>Rutland</hi> had agreed with the Commiſſioners for Sequeſtrations, to continue in the ſaid <hi>Wallingford</hi> Houſe, till <hi>Lady</hi> day next, at the Rent of <hi>136 l. 13 s. 4 d.</hi> beſides all Taxes and Repairs, which is more then was yet offered by any other (being alſo willing to give the ſame or a greater Rent, for the term of <hi>7</hi> years) the ſaid Commiſſioners for ſequeſtrations having power by inſtructions, to continue the Tenants in poſſeſſion till <hi>Lady</hi> day next.</item>
+                  <item>
+                     <hi>6</hi> The Earl of <hi>Rutland</hi> is adviſed by Counſel, that the Lord <hi>Howard's</hi> new Leaſe is void, for that it is not made purſuant to the directions ſet forth in your Act of the <hi>25</hi> of <hi>January 1649,</hi> it neither being let for the best Rent offered, nor upon any contract made by the Commiſſioners for Sequeſtrations.</item>
+                  <item>
+                     <hi>Laſtly,</hi> It was Ordered by this Honourable Houſe as followeth;</item>
+               </list>
+            </div>
+            <div type="resolution">
+               <head>Die Martis <hi>8.</hi> Decembr. <hi>1646.</hi>
+               </head>
+               <p>REſolved by the Commons aſſembled in Parliament, That no Member of either Houſe ſhall have any Sequeſtrations whatſoever, either by Leaſe or Grant.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
